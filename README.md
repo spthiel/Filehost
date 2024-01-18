@@ -9,6 +9,7 @@ bun install
 To run:
 
 ```bash
+mkdir files
 bun css
 bun start
 ```
